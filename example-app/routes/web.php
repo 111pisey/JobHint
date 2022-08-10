@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\mycontroller;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,5 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('crud');
 });
+//Route::view('index','insertRead');
+Route::post('insertData',[mycontroller::class,'insert']);
+Route::get('/',[mycontroller::class,'readdata']);
+//Route::view('update','updateview');
+Route::get('updatedelete',[mycontroller::class,'updateordelete']);
+Route::get('updatedata',[mycontroller::class,'update']);
