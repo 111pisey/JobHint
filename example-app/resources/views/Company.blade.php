@@ -13,9 +13,30 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
     </script>
     </head>
+	<style>
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.container {
+
+  font-size: 12px;
+
+
+}</style>
 <body>
 	@include('Homepage.nav');
 	
+	<section>
+		<div class="page-header d-flex justify-content-around">
+		<h4 class="page-title-center text-secondary"><b>Company List</b></h4>
+			
+																																														</ol>
+		</div>
+		<hr>
+		</section>
 	<section class=""> 
 		<div class="container ">
 			<div class="row mt-xl-5">
@@ -30,7 +51,7 @@
 												<div class="p-0 m-0 item-card9-img">
 													<div class="item-card9-imgs p-3 job-page d-flex">
 														<a href="https://www.cdx.com.kh/en/career/">
-															<img src="https://www.cdx.com.kh/cdxlanding/images/cdx-logo2.png" alt="Marketing" style="width:70%" class="h-100 rounded">
+															<img class="center" style="width: 50%;" src="https://www.cdx.com.kh/cdxlanding/images/cdx-logo2.png" alt="Marketing" style="width:70%" class="h-100 rounded">
 														
 														</a>
 														
@@ -95,7 +116,7 @@
 												<div class="p-0 m-0 item-card9-img">
 													<div class="item-card9-imgs p-3 job-page d-flex">
 														<a href="http://www.bvmpetroleum.com/career/">
-															<img src="http://www.cambodiayp.com/img/kh/r/1460032134-56-bright-victory-mekong-petroleum-co-ltd.jpg" alt="Sale" style="width:40%" class="h-100">
+															<img class="center"style="width: 27%;" src="http://www.cambodiayp.com/img/kh/r/1460032134-56-bright-victory-mekong-petroleum-co-ltd.jpg" alt="Sale" style="width:40%" class="h-100">
 														
 														</a>
 														
@@ -160,7 +181,7 @@
 								<div class="p-0 m-0 item-card9-img">
 									<div class="item-card9-imgs p-3 job-page d-flex">
 										<a href="https://www.goldentree.com.kh/career/">
-											<img src="https://jobboom.asia/media/imagemodule/69d669aee8673d90d2bb2bd7a0a96c1b.png" alt="Admin Assistant" style="width:50%" class="pl-2 h-100">
+											<img class="center"style="width: 33%;" src="https://jobboom.asia/media/imagemodule/69d669aee8673d90d2bb2bd7a0a96c1b.png" alt="Admin Assistant" style="width:50%" class="pl-2 h-100">
 									
 										</a>
 									</div>
@@ -231,7 +252,7 @@
 								<div class="p-0 m-0 item-card9-img">
 									<div class="item-card9-imgs p-3 job-page d-flex">
 										<a href="https://www.cdx.com.kh/en/career/">
-											<img src="https://www.cdx.com.kh/cdxlanding/images/cdx-logo2.png" alt="Accountant" style="width:70%" class="h-100">
+											<img class="center"style="width: 50%;" src="https://www.cdx.com.kh/cdxlanding/images/cdx-logo2.png" alt="Accountant" style="width:70%" class="h-100">
 										</a>
 											
 									</div>
@@ -295,7 +316,7 @@
 								<div class="p-0 m-0 item-card9-img">
 									<div class="item-card9-imgs p-3 job-page d-flex">
 										<a href="https://www.uhs.edu.kh/">
-											<img src="https://i0.wp.com/thementor.me/wp-content/uploads/2020/12/220px-UHS_Cambodia_logo.png?resize=326%2C325&ssl=1" style="width:73%" alt="Mobile Developer" class="pl-3 h-100">
+											<img class="center"style="width: 50%;" src="https://i0.wp.com/thementor.me/wp-content/uploads/2020/12/220px-UHS_Cambodia_logo.png?resize=326%2C325&ssl=1" style="width:73%" alt="Mobile Developer" class="pl-3 h-100">
 									
 										</a>
 									</div>
@@ -359,7 +380,7 @@
 								<div class="p-0 m-0 item-card9-img">
 									<div class="item-card9-imgs p-3 job-page d-flex">
 										<a href="https://online.com.kh/careers/">
-											<img src="https://www.online.com.kh/wp-content/uploads/2019/06/onlineisp.png" alt="Building Operator" style="width:80%" class="h-100">
+											<img class="center"style="width: 50%;" src="https://www.online.com.kh/wp-content/uploads/2019/06/onlineisp.png" alt="Building Operator" style="width:80%" class="h-100">
 									
 										</a>
 									</div>

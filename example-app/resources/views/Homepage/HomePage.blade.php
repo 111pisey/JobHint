@@ -62,7 +62,7 @@ h1:hover span {
 </nav> -->
 
 <div class="section-title center-block text-center">
-  <h3 class="text-primary font-weight text-center my-5 fw-bold">Latest Job</h3>
+  <h3 class="text-primary font-weight text-center text-secondary my-5 fw-bold">Latest Job</h3>
 </div>
 <!--  
 <nav>
@@ -94,90 +94,50 @@ h1:hover span {
   <div class="row gy-3 my-5">
     <div class="col-sm-6 col-md-4 col-lg-3 my-4">
     <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
+     <img style="width: 15rem; height: 14rem;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPSzueHIW9wuZeEf8q244qlfBkdOkha6g1WIRXStlMtaRp59kgKSkuDrVppccXHNRS3tc&usqp=CAU" class="card-img-top" alt="...">
     <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
+    <h5 class="card-title">Engineering</h5>
     <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
+    <a href="/Company" class="btn btn-primary">Urgent</a>
     </div>
     </div>
     </div>
 
     <div class="col-sm-6 col-md-4 col-lg-3 my-4">
     <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
+     <img style="width: 15rem; height: 14rem;"src="https://img.freepik.com/premium-vector/chef-hat-with-movable-food-cover-logo-symbol-vector-icon-illustration-graphic-design_15473-6015.jpg?w=360" class="card-img-top" alt="...">
     <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
+    <h5 class="card-title">Chef</h5>
     <p class="card-text">Home Window rise and shine</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
+    <a href="/Company" class="btn btn-primary">Urgent</a>
     </div>
     </div>
     </div>
     <div class="col-sm-6 col-md-4 col-lg-3 my-4">
     <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
+     <img style="width: 15rem; height: 14rem;" src="https://www.tailorbrands.com/wp-content/uploads/2022/02/serving-dish-07-300x300.png" class="card-img-top" alt="...">
     <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
+    <h5 class="card-title">Engineering</h5>
     <p class="card-text">Home Window rise and shine</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
+    <a href="/Company" class="btn btn-primary">Urgent</a>
     </div>
     </div>
     </div>
 
     <div class="col-sm-6 col-md-4 col-lg-3 my-4">
     <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
+     <img style="width: 15rem; height: 14rem;" src="https://thumbs.dreamstime.com/b/working-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134334266.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
+    <h5 class="card-title">Admin/Supervisor</h5>
     <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
+    <a href="/Company" class="btn btn-primary">Urgent</a>
     </div>
     </div>
     </div>
 
-    <div class="col-sm-6 col-md-4 col-lg-3 my-4">
-    <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
-    <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
-    <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
-    </div>
-    </div>
-    </div>
+    
 
-    <div class="col-sm-6 col-md-4 col-lg-3 my-4">
-    <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
-    <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
-    <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-sm-6 col-md-4 col-lg-3 my-4">
-    <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
-    <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
-    <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
-    </div>
-    </div>
-    </div>
-
-    <div class=" col-sm-6 col-md-4 col-lg-3 my-4">
-    <div class="card" style="width: 17rem;">
-     <img src="{{asset('storage/img1.jpg')}}" class="card-img-top" alt="...">
-    <div class="card-body">
-    <h5 class="card-title">Various Position</h5>
-    <p class="card-text">TVC Engineering Co,Ltd</p>
-    <a href="#" class="btn btn-primary">Urgent</a>
-    </div>
-    </div>
-    </div>
+   
   </div>
 </div>
 </nav>

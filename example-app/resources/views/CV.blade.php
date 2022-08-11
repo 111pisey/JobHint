@@ -13,8 +13,24 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
     </script>
     </head>
+	<style>
+.container {
+
+  font-size: 12px;
+
+
+}</style>
 <body>
 	@include('Homepage.nav')
+	
+    <section>
+		<div class="page-header d-flex justify-content-around">
+		<h4 class="page-title-center text-secondary"><b>Candidate List</b></h4>
+			
+																																														</ol>
+		</div>
+		<hr>
+		</section>
 	<section class=""> 
 		<div class="container ">
             <div class="row mt-5">

@@ -30,7 +30,9 @@
             <div class="card-body">
               <h5 class="card-title">DO YOU WANT TO FIND A JOB?
 </h5>
-              <button type="button" class="btn btn-outline-primary">Find Job</button>
+              <button type="button" class="btn btn-outline-primary" href="/Company">
+              <a href="/Company">Find Job</a>
+              </button>
             </div>
         </div>
         </div>
@@ -43,7 +45,9 @@
               
               
               <h5 class="card-title">ARE YOU LOOKING FOR A CANDIDATE?</h5>
-              <button type="button" class="btn btn-outline-success">Find Candidate</button>
+              <button type="button" class="btn btn-outline-success">
+              <a href="/CV">Find Candidate</a>
+              </button>
             </div>
       </div>
 
@@ -54,7 +58,8 @@
     </div>
 
 
-    <h3 class="text-center text-primary my-5 fw-bold ">FEATURE EMPLOYERS</h3>
+    <h3 class="container text-center text-primary my-5 fw-bold text-secondary">FEATURE EMPLOYERS</h3>
+
     <div class="owl-carousel owl-theme">
       
     <div class="item">
@@ -66,7 +71,7 @@
                 <p>Invest with truth and....</p>
               <hr>
              
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -78,7 +83,7 @@
                 <p>Invest with truth and....</p>
               <hr>
         
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -90,7 +95,7 @@
                 <p>Invest with truth and....</p>
               <hr>
 
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -102,7 +107,7 @@
                 <p>Invest with truth and....</p>
               <hr>
 
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -114,7 +119,7 @@
                 <p>Invest with truth and....</p>
               <hr>
 
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -126,7 +131,7 @@
                 <p>Invest with truth and....</p>
               <hr>
 
-              <button type="button" class="btn btn-outline-info">Views details</button>
+              <button type="button" class="btn btn-outline-info"><a href="/Company">View details</a></button>
             </div>
       </div>
     </div>
@@ -159,7 +164,7 @@
     })
 </script>
 
-<h3 class="text-center text-primary my-5 fw-bold "> LOCATION BOOM</h3>
+<h3 class="text-center text-primary my-5 fw-bold text-secondary"> LOCATION BOOM</h3>
 
 <section class="sptb bg-white">
     <div class="container">
@@ -170,7 +175,7 @@
             <div class="col-12 col-lg-6 col-xl-6">
                 <div class="row">
                                                                         <div class="col-sm-12 col-lg-6 col-md-6">
-                                <a href="https://jobboom.asia/position?location%5B%5D=12" class="item-card overflow-hidden">
+                                <a  class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden" >
                                             <div class="card-img top-location-card-img" style="width: 30rem; height: 20rem;" style="background-image: url(https://jobboom.asia/media/original/0483a2725ecf723e397b8633c3e69851.png);">
@@ -185,7 +190,7 @@
                                 </a>
                             </div>
                                                     <div class="col-sm-12 col-lg-6 col-md-6">
-                                <a href="https://jobboom.asia/position?location%5B%5D=10" class="item-card overflow-hidden">
+                                <a  class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden">
                                             <div class="card-img top-location-card-img" style="width: 30rem; height: 20rem;" style="background-image: url(https://jobboom.asia/media/original/2331bf6e4f903cfd700e2092e6d30d96.png);">
@@ -199,7 +204,7 @@
                                 </a>
                             </div>
                                                     <div class="col-sm-12 col-lg-12 col-md-12">
-                                <a href="https://jobboom.asia/position?location%5B%5D=1" class="item-card overflow-hidden">
+                                <a class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden">
                                             <div class="card-img top-location-card-img" style="background-image: url(https://jobboom.asia/media/original/400c47ed01553af639267a92afbf5b27.png);">
@@ -217,7 +222,7 @@
             <div class="col-12 col-lg-6 col-xl-6">
                 <div class="row">
                                                                         <div class="col-sm-12 col-lg-12 col-md-12">
-                                <a href="https://jobboom.asia/position?location%5B%5D=23" class="item-card overflow-hidden">
+                                <a  class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden">
                                             <div class="card-img top-location-card-img" style="background-image: url(https://jobboom.asia/media/original/1ed352e18eed8c0c873981de3e65c3b8.png);">
@@ -231,7 +236,7 @@
                                 </a>
                             </div>
                                                     <div class="col-sm-12 col-lg-6 col-md-6">
-                                <a href="https://jobboom.asia/position?location%5B%5D=13" class="item-card overflow-hidden">
+                                <a  class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden">
                                             <div class="card-img top-location-card-img" style="width: 30rem; height: 20rem;" style="background-image: url(https://jobboom.asia/media/original/9e3c3dbcd92c4a2d03748676005f3736.png);">
@@ -245,7 +250,7 @@
                                 </a>
                             </div>
                                                     <div class="col-sm-12 col-lg-6 col-md-6">
-                                <a href="https://jobboom.asia/position?location%5B%5D=11" class="item-card overflow-hidden">
+                                <a  class="item-card overflow-hidden">
                                     <div class="item-card-desc">
                                         <div class="card overflow-hidden">
                                             <div class="card-img top-location-card-img" style="width: 30rem; height: 20rem;" style="background-image: url(https://jobboom.asia/media/original/3e86430a288ba3faa7659ffd73e0e2cd.png);">

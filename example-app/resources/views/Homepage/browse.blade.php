@@ -22,9 +22,9 @@
     <section class="sptb bg-white mb-5">
     <div class="container p-0">
         <div class="section-title center-block text-center mt-4">
-            <h3 class="font-weight-bold text-primary">BROWSE JOBS</h3>
+            <h3 class="font-weight-bold text-secondary">BROWSE JOBS</h3>
         </div>
-        <div class="panel panel-primary">
+        <div class="panel panel-light">
             <div class>
                 <div class="tabs-menu">
                     <ul class="nav mb-6 d-flex justify-content-center mt-4">

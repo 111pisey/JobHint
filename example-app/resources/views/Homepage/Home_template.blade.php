@@ -9,7 +9,7 @@
 <body>
       
         @include('Homepage.nav')
-        @include('Homepage.Home_slideshow')
+       
         @include ('Homepage.HomePage')
         @include('Homepage.SecondHomepage')
         @include ('Homepage.browse')
