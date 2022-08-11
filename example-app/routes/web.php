@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\CvController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('Homepage.Home_template');
+// })
+
+Route::get('/home',[CvController::class,'index']);
+//Route::get('/create',[cv_controller::class,'create']);
+Route::resource('/items', CvController::class);
+?>
