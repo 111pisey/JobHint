@@ -3031,6 +3031,7 @@
         },
         {
             "name": "symfony/css-selector",
+<<<<<<< HEAD
             "version": "v6.0.11",
             "source": {
                 "type": "git",
@@ -3041,6 +3042,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/css-selector/zipball/ab2746acddc4f03a7234c8441822ac5d5c63efe9",
                 "reference": "ab2746acddc4f03a7234c8441822ac5d5c63efe9",
+=======
+            "version": "v5.4.11",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/css-selector.git",
+                "reference": "c1681789f059ab756001052164726ae88512ae3d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/c1681789f059ab756001052164726ae88512ae3d",
+                "reference": "c1681789f059ab756001052164726ae88512ae3d",
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
                 "shasum": ""
             },
             "require": {
@@ -3076,7 +3089,11 @@
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/css-selector/tree/v6.0.11"
+=======
+                "source": "https://github.com/symfony/css-selector/tree/v5.4.11"
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
             },
             "funding": [
                 {
@@ -3092,7 +3109,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-06-27T17:10:44+00:00"
+=======
+            "time": "2022-06-27T16:58:25+00:00"
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -4779,6 +4800,7 @@
         },
         {
             "name": "symfony/string",
+<<<<<<< HEAD
             "version": "v6.0.11",
             "source": {
                 "type": "git",
@@ -4789,6 +4811,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/string/zipball/042b6bf0f6ccca6d456a0572eb788cfb8b1ff809",
                 "reference": "042b6bf0f6ccca6d456a0572eb788cfb8b1ff809",
+=======
+            "version": "v5.4.11",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/string.git",
+                "reference": "5eb661e49ad389e4ae2b6e4df8d783a8a6548322"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/string/zipball/5eb661e49ad389e4ae2b6e4df8d783a8a6548322",
+                "reference": "5eb661e49ad389e4ae2b6e4df8d783a8a6548322",
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
                 "shasum": ""
             },
             "require": {
@@ -4844,7 +4878,11 @@
                 "utf8"
             ],
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/string/tree/v6.0.11"
+=======
+                "source": "https://github.com/symfony/string/tree/v5.4.11"
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
             },
             "funding": [
                 {
@@ -4860,6 +4898,7 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-07-27T15:50:26+00:00"
         },
         {
@@ -4874,6 +4913,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/translation/zipball/55ffbe4b690156100af1ae42e1f94c5873085bca",
                 "reference": "55ffbe4b690156100af1ae42e1f94c5873085bca",
+=======
+            "time": "2022-07-24T16:15:25+00:00"
+        },
+        {
+            "name": "symfony/translation",
+            "version": "v5.4.11",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/translation.git",
+                "reference": "7a1a8f6bbff269f434a83343a0a5d36a4f8cfa21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/7a1a8f6bbff269f434a83343a0a5d36a4f8cfa21",
+                "reference": "7a1a8f6bbff269f434a83343a0a5d36a4f8cfa21",
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
                 "shasum": ""
             },
             "require": {
@@ -4939,7 +4994,11 @@
             "description": "Provides tools to internationalize your application",
             "homepage": "https://symfony.com",
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/translation/tree/v6.0.11"
+=======
+                "source": "https://github.com/symfony/translation/tree/v5.4.11"
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
             },
             "funding": [
                 {
@@ -4955,7 +5014,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-07-20T13:45:53+00:00"
+=======
+            "time": "2022-07-20T13:00:38+00:00"
+>>>>>>> f83161ab76ef035f3b4b3a428d42ac2ca0efc28f
         },
         {
             "name": "symfony/translation-contracts",

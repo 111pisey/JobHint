@@ -8,8 +8,6 @@
 </head>
 <body>
       
-
-
         @include('Homepage.nav')
         @include('Homepage.Home_slideshow')
         @include ('Homepage.HomePage')
