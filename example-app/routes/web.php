@@ -1,7 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CvController;
 use App\Http\Controllers\mycontroller;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,6 +14,14 @@ use App\Http\Controllers\mycontroller;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+// Route::get('/', function () {
+//     return view('Homepage.Home_template');
+// })
+
+Route::get('/home',[CvController::class,'index']);
+//Route::get('/create',[cv_controller::class,'create']);
+Route::resource('/items', CvController::class);
 
 //Route::get('/home',[HomeController::class,'index'])->name('home');
 Route::get('/', function () {
@@ -36,3 +46,5 @@ Route::get('/',[mycontroller::class,'readdata']);
 //Route::view('update','updateview');
 Route::get('updatedelete',[mycontroller::class,'updateordelete']);
 Route::get('updatedata',[mycontroller::class,'update']);
+
+?>
