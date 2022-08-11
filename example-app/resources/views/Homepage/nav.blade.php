@@ -98,23 +98,18 @@ h1:hover span {
             <div class="collapse navbar-collapse" id="nvbCollapse">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">Home</a>
+						<a class="nav-link text-dark" href="/Home">Home</a>
 					</li>
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">Announcements</a>
+						<a class="nav-link text-dark" href="/Company">Company</a>
 					</li>
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">Positions</a>
+						<a class="nav-link text-dark" href="/CV">CV</a>
 					</li>
-					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">CV</a>
+          <li class="nav-item active pl-1">
+						<a class="nav-link text-dark" href="/">Admin</a>
 					</li>
-					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">Companies</a>
-					</li>
-					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark " href="#">Category</a>
-					</li>
+					
 				</ul>
 			</div>
 </form>

@@ -14,6 +14,7 @@
     </script>
     </head>
 <body>
+	@include('Homepage.nav')
 	<section class=""> 
 		<div class="container ">
             <div class="row mt-5">
@@ -417,5 +418,6 @@
             </div>
         </div>
     </section>
+	@include('Homepage.footer')
 </body>
 </html>

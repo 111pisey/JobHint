@@ -105,7 +105,7 @@ h1:hover span {
 						<a class="nav-link text-dark" href="#">CRUD CV</a>
 					</li>
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">USER Side</a>
+						<a class="nav-link text-dark" href="/Home">USER Side</a>
 					</li>
 					
 				</ul>
