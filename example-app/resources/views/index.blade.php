@@ -1,13 +1,11 @@
 
-@extends('layout')
+@extends('crud')
  @section('content')
      <div class="row">
          <div class="col-lg-12 margin-tb">
-             <div class="pull-left">
-                 <h2>Create CV </h2>
-             </div>
-             <div class="pull-right">
-                 <a class="btn btn-success" href="{{ route('items.create')}}"> Create New CV</a>
+            
+             <div class="text-center mt-4 ">
+                 <a class="btn btn-outline-success mb-3 rounded-pill " href="{{ route('items.create')}}"> Create New CV</a>
              </div>
          </div>
      </div>
@@ -17,8 +15,8 @@
              <p>{{ $message }}</p>
          </div>
      @endif
-     <table class="table table-bordered">
-        <tr>
+     <table class="table table-bordered ">
+        <tr class="bg-success">
             <th>No</th>
             <th>User_id</th>
             <th>Interesting_Position</th>

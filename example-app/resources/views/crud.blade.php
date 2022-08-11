@@ -99,10 +99,10 @@ h1:hover span {
             <div class="collapse navbar-collapse" id="nvbCollapse">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">CRUD Company</a>
+						<a class="nav-link text-dark" href="/">CRUD Company</a>
 					</li>
 					<li class="nav-item active pl-1">
-						<a class="nav-link text-dark" href="#">CRUD CV</a>
+						<a class="nav-link text-dark" href="/items">CRUD CV</a>
 					</li>
 					<li class="nav-item active pl-1">
 						<a class="nav-link text-dark" href="/Home">USER Side</a>
@@ -112,7 +112,7 @@ h1:hover span {
 			</div>
 </form>
 </nav>
-    <h1 class="mt-4 text-dark text-center">Admin side for add Company</h1>
+    <h1 class="mt-4 text-dark text-center">Admin side for add information</h1>
     @yield('content');
 
 </body>
